@@ -1,0 +1,2 @@
+# my-minilifecycle-repo
+lifecycle
